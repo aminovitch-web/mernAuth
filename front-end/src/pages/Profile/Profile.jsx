@@ -1,7 +1,8 @@
 import React from 'react'
+import ProfileComponent from '../../components/Member/Profile/Profile'
 
 export default function Profile() {
   return (
-    <div>Profile</div>
+    <ProfileComponent/>
   )
 }
